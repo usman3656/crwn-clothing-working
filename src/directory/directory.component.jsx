@@ -1,6 +1,4 @@
-import React from 'react'
-import ReactDOM from 'react-dom'
-import CategoryItem from '../category-item/category-item.component.jsx';
+import CategoryItem from '../components/category-item/category-item.component.jsx';
 import './directory.styles.scss';
 
 
